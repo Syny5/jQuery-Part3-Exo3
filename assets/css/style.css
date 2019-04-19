@@ -1,0 +1,29 @@
+h1{
+  color: red;
+}
+
+h2{
+   color: blue;
+   text-decoration: underline;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+input{
+  text-align: center;
+  font-size: 28px;
+  width: 90px
+}
+
+.button{
+  font-size: 32px;
+  background-color: green;
+  border-color: green;
+  color: white;
+  font-weight: bold;
+  border-radius: 15px;
+}
